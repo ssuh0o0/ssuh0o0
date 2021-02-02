@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/55631147/106609365-d22ce200-65a8-11eb-999c-444bb9f23436.png)
 
 <p align="center">
- ![image](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)   ![](https://img.shields.io/badge/C++-BFE3F3?style=flat-square&logo=%2Bc&logoColor=white) ![](https://img.shields.io/badge/C-AFB2BC?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/Css-248DC7?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Javascript-E8D44D?style=flat-square&logo=JAVAscript&logoColor=white)  ![](https://img.shields.io/badge/JAVA-D46051?style=flat-square&logo=JAVA&logoColor=white) </p>
+ <image src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">   ![](https://img.shields.io/badge/C++-BFE3F3?style=flat-square&logo=%2Bc&logoColor=white) ![](https://img.shields.io/badge/C-AFB2BC?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/Css-248DC7?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Javascript-E8D44D?style=flat-square&logo=JAVAscript&logoColor=white)  ![](https://img.shields.io/badge/JAVA-D46051?style=flat-square&logo=JAVA&logoColor=white) </p>
 
 <!--
 **ssuh0o0/ssuh0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
