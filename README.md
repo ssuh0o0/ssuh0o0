@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/55631147/106609365-d22ce200-65a8-11eb-999c-444bb9f23436.png)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <!--
 **ssuh0o0/ssuh0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
