@@ -8,8 +8,8 @@
  <image src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">  <image src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <image src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <image src="https://img.shields.io/badge/JAVA-D46051?style=flat-square&logo=JAVA&logoColor=white">  <image src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">   <image src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> <image src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white">  <image src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"> </p> 
 
     <p align="center">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssuh0o0&show_icons=true&theme=codeSTACKr)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuh0o0&layout=compact&theme=github_dark)</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssuh0o0&show_icons=true&theme=codeSTACKr)</p>
+    <p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuh0o0&layout=compact&theme=github_dark)</p>
     
     
 <!--
