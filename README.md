@@ -10,9 +10,6 @@
 <p align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssuh0o0&show_icons=true&theme=codeSTACKr) </p>
     
-<p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuh0o0&layout=compact&theme=github_dark) </p>
-    
     
 <!--
 **ssuh0o0/ssuh0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
