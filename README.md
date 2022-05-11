@@ -5,8 +5,6 @@
 <image src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=node.js&logoColor=white">    <image src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">  <image src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  <image src="https://img.shields.io/badge/C%23-8669AE?style=flat-square&logo=C%23&logoColor=white">  <image src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssuh0o0&show_icons=true&theme=codeSTACKr) 
-    
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuh0o0&layout=compact&theme=github_dark)
 
 </div>
     
