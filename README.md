@@ -1,5 +1,4 @@
 ![image](https://user-images.githubusercontent.com/55631147/106609365-d22ce200-65a8-11eb-999c-444bb9f23436.png)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssuh0o0&count_bg=%23DBB9D6&title_bg=%23785D5D&icon=&icon_color=%23E7E7E7&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center"> 🎈 My tech stack 🎈
 
 <image src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=node.js&logoColor=white">    <image src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">  <image src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  <image src="https://img.shields.io/badge/C%23-8669AE?style=flat-square&logo=C%23&logoColor=white">  <image src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">  
