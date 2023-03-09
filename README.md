@@ -40,8 +40,4 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 
 
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=F7E9D4)
-
 </div>
